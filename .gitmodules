@@ -1,0 +1,3 @@
+[submodule "onforums-testdataextractor"]
+	path = testdataextractor
+	url = git@github.com:betoesquivel/onforums-testdataextractor.git
